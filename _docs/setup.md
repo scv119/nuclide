@@ -32,6 +32,8 @@ If you want to build Nuclide from source, you must have the following tools inst
 + Atom 0.209.0 or later.
 + Node 0.12.0 or later.
 + `node`, `npm`, `apm`, and `git` must be on your `$PATH`.
++ [Watchman](https://facebook.github.io/watchman/) version 3.2 or later must be on your `$PATH`. You can build and/or
+install Watchman following [Installation](https://facebook.github.io/watchman/docs/install.html).
 
 The [linter](https://atom.io/packages/linter) package is optional, but *strongly recommended*.
 
